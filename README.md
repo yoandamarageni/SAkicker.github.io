@@ -1,5 +1,4 @@
-[Uploading sakicker_news_live (1).html…]()
-<!DOCTYPE html>
+ 
 <html lang="en">
 <head>
 <meta charset="UTF-8">
