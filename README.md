@@ -1,5 +1,6 @@
 [sakicker_news.html](https://github.com/user-attachments/files/27553810/sakicker_news.html)
-# SAkicker.github.io<!DOCTYPE html>
+# SAkicker.github.io
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
